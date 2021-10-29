@@ -1,0 +1,18 @@
+{"People": [
+    {
+        "Occupation": "Student",
+        "FirstName": "FName1",
+        "Relationship": "Friend",
+        "ID": 9,
+        "SecondName": "Sname1",
+        "Age": 20
+    },
+    {
+        "Occupation": "Student",
+        "FirstName": "FName2",
+        "Relationship": "Friend",
+        "ID": 10,
+        "SecondName": "Sname2",
+        "Age": 25
+    }
+]}
